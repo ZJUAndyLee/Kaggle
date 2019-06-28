@@ -1,1 +1,2 @@
-# Kaggle
+# Kaggle competition
+## just for study
